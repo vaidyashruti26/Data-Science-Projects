@@ -6,7 +6,7 @@
     3  Creation of New column
     4  pop, del & insert function
     5  loading csv file in DF using pd.read_csv
-    6  checking different statistical paramerters like mean ,median, min , max etc
+    6  checking different statistical paramerters like mean ,median, min , max, standard deviation etc
     7  filter dataframe
     8  any & all functions
     9  checking Null vales in column & drop them using dropna function
