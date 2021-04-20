@@ -1,18 +1,18 @@
 # Pandas
- Practiced following topics in Pandas -
-   1  Creation of Series and DataFrame
-   2  Indexing & slicing in DataFrame
-   3  Creation of New column
-   4  pop, del & insert function
-   5  loading csv file in DF using pd.read_csv
-   6  checking different statistical paramerters like mean ,median, min , max etc
-   7  filter dataframe
-   8  any & all functions
-   9  checking Null vales in column & drop them using dropna function
-   10  plotting different graph like Histogram, bar graph etc
-   11  Groupby function
-   12  merging of 2 DF using Merge function
-   13  convering timestamp column to time using pd.to_datetime function
+ #Practiced following topics in Pandas -
+   #1  Creation of Series and DataFrame
+   #2  Indexing & slicing in DataFrame
+   #3  Creation of New column
+   #4  pop, del & insert function
+   #5  loading csv file in DF using pd.read_csv
+   #6  checking different statistical paramerters like mean ,median, min , max etc
+   #7  filter dataframe
+   #8  any & all functions
+   #9  checking Null vales in column & drop them using dropna function
+   #10  plotting different graph like Histogram, bar graph etc
+   #11  Groupby function
+   #12  merging of 2 DF using Merge function
+   #13  convering timestamp column to time using pd.to_datetime function
 
 # Numpy
 Practiced following topics in Numpy -
