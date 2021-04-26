@@ -37,15 +37,26 @@
     18  merging of 2 arrays using vstack , hstack, & concatenate functions
 
 # Visualization_Matplotlib
-    Practiced following topics in Numpy -
+    Practiced following topics in Matplotlib -
     1  Importing various python libraries.
-    2  Data visualization using head() and shape functions.
+    2  Data visualsation using head() and shape functions.
     3  Column operations using unique() and tolist() functions.
     4  Data visualisation using Matplotlib. Plotted basic bar graphs.
-    5  Data visualization using line graph.
-    6  Data exploration and visualization using hist graph.
-    7  Data visualization using subplotting.
+    5  Data visualisation using line graph.
+    6  Data exploration and visualisation using hist graph.
+    7  Data visualisation using subplotting.
     8  Data visualisation using scatterplot.
    
-# 
+# Data Extraction from SQLITE Database
+    Practiced following topics -
+    1. Importing various python libraries.
+    2. Creation of connection with SQLITE database.
+    3. Read SQL query.
+    4. data visualisation using head() function.
+    5. Data processing by checking null values. There are null values it has removed by dropna() function.
+    6. Visualisation of values such as count, min, max, standard deviation, mean of the data by using describe() function.
+    7. To see correlation between columns in the dataset I used corr() function.
+    8. Splitted data into train and test.
+    9. Train the model using LinearRegression classification algorithm.
+    10. Determined accuracy of the model.
 
