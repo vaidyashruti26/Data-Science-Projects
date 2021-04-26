@@ -67,8 +67,8 @@
    3. Visualise total record number using shape and head function.
    4. Visualisation of values such as count, min, max, standard deviation, mean of the data by using describe() function.
    5. Created summary table to understand the trend using year variable and visualisation of that column.
-   6. Visualizing the trend of Yield per Colony from year 1998 to 2012.
-   7. Visualizing the total honey production from the year 1998 to 2012.
+   6. Visualising the trend of Yield per Colony from year 1998 to 2012.
+   7. Visualising the total honey production from the year 1998 to 2012.
    8. Group the dataset by states and using sum method to get the total honey product.
    9. Created a Bar chart to visualize the total honey production by states.
    10. Created a table to find out maximum production value from the states.
@@ -82,3 +82,22 @@
    18. Train the model using LinearRegression classification algorithm.
    19. Determined accuracy of the model.
   
+#  Titanic Data Exploration Logistic Regression
+   Practiced following topics-
+   1. Importing various python libraries.
+   2. Importing dataset and visualisation of data by using head() and shape function.
+   3. Data Processing by checking null values. There are null values in dataset. filled nullvalues using sum() function. The function will fill the null values by counting sum of the column values.
+   4. drawn a bar plot of survival by sex.
+   5. print percentages of females vs. males that survive.
+   6. draw a bar plot of survival by Pclass.
+   7. print percentage of people by Pclass that survived.
+   8. Visualisation of values such as count, min, max, standard deviation, mean of the data by using describe() function.
+   9. New column created. calculate percentages of new column vs.already present column.
+   10. Drawn a bar plot of CabinBool vs. survival columns.
+   11. Drop the null values from the dataset.
+   12. Imported libraries regarding Logistic Regression.
+   13. Dropped the columns whose values are categorical. Replaced particular column data type to another data type.
+   14. Splitted data into train and test.
+   15. Train the model using LogisticRegression classification algorithm.
+   16. Determined accuracy of the model.
+   17. Confusion matrix calculated.
