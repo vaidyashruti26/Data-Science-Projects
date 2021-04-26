@@ -60,3 +60,25 @@
     9. Train the model using LinearRegression classification algorithm.
     10. Determined accuracy of the model.
 
+#  Honey Production Dataset Analysis
+   Practiced following topics-
+   1. Importing pandas, numpy, matplotlib,seaborn python libraries.
+   2. Read honey production dataset.
+   3. Visualise total record number using shape and head function.
+   4. Visualisation of values such as count, min, max, standard deviation, mean of the data by using describe() function.
+   5. Created summary table to understand the trend using year variable and visualisation of that column.
+   6. Visualizing the trend of Yield per Colony from year 1998 to 2012.
+   7. Visualizing the total honey production from the year 1998 to 2012.
+   8. Group the dataset by states and using sum method to get the total honey product.
+   9. Created a Bar chart to visualize the total honey production by states.
+   10. Created a table to find out maximum production value from the states.
+   11. Created a table to find out minimum production value from the states.
+   12. Merging the Max Prod and Min Prod varible to find the range.
+   13. Created a Bar chart to visualize the statewise decline trend.
+   14. Checked the correlation between variables.
+   15. Visualised the same in Heatmap().
+   16. Checked hypothesis: "More the number of colonies, higher the production value.
+   17. Splitted data into train and test.
+   18. Train the model using LinearRegression classification algorithm.
+   19. Determined accuracy of the model.
+  
