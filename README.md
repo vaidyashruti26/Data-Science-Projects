@@ -36,3 +36,16 @@
     17  checked maximum & where function
     18  merging of 2 arrays using vstack , hstack, & concatenate functions
 
+# Visualization_Matplotlib
+    Practiced following topics in Numpy -
+    1  Importing various python libraries.
+    2  Data visualization using head() and shape functions.
+    3  Column operations using unique() and tolist() functions.
+    4  Data visualisation using Matplotlib. Plotted basic bar graphs.
+    5  Data visualization using line graph.
+    6  Data exploration and visualization using hist graph.
+    7  Data visualization using subplotting.
+    8  Data visualisation using scatterplot.
+   
+# 
+
