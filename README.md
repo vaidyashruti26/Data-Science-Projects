@@ -82,7 +82,7 @@
    18. Train the model using LinearRegression classification algorithm.
    19. Determined accuracy of the model.
   
-#  Titanic Data Exploration Logistic Regression
+#  Titanic Data Exploration Using Logistic Regression
    Practiced following topics-
    1. Importing various python libraries.
    2. Importing dataset and visualisation of data by using head() and shape function.
@@ -102,7 +102,7 @@
    16. Determined accuracy of the model.
    17. Confusion matrix calculated.
 
-#  Iris Data Exploration using KNN
+#  Iris Data Exploration Using KNN
    practiced following points - 
    1. Importing various python libraries.
    2. Importing dataset and visualisation of data by using head() and shape function.
