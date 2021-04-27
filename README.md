@@ -101,3 +101,24 @@
    15. Train the model using LogisticRegression classification algorithm.
    16. Determined accuracy of the model.
    17. Confusion matrix calculated.
+
+#  Iris Data Exploration using KNN
+   practiced following points - 
+   1. Importing various python libraries.
+   2. Importing dataset and visualisation of data by using head() and shape function.
+   3. Data view by head() and shape function. There are 150 rows and 6 columns.
+   4. Data exploration by finding column names, changing column names.
+   5. Data description using description function().
+   6. Data Processing by checking null values. There are no null values are present in dataset.
+   7. Used value_counts() function on target column to see the kind of species.
+   8. Scatter plot of two columns.
+   9. Bar graph plotting on four columns.
+   10. To visualise more details plotted scatter plot.
+   11. To visualise the data in various angles used pair plots.
+   12. Box-plot for visualized  of description of the data.
+   13. Violen plot to visualise the data into different format.
+   14. Dispaly correlation between data columns.
+   15. Display correlation matrix.
+   16. Importing SnadardScaler and done Model training using KNN algorithm.
+   17. Found accuracy of KNN algorithm and display confusion matrix.
+   18. Applied Logistic regression algorithm on dataset to compare between KNN algorithm accuracy and Logistic regression.
