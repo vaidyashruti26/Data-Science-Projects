@@ -136,3 +136,11 @@
        9. Model training is done by using Linear Regression algorithm.
        10. Mean absolute error is displayed.
        11. Prediction for single house is done.
+#   Store Analysis Using Linear Model
+       practiced following points - 
+       1. Imported various python libraries.
+       2. Imported 5 datasets(store, train. test, sample_submission, features) and visualisation of data by using head() and shape function.
+       3. Visualising data using bar graphs.
+       4. merging two datasets.
+       5. Splitting data into train and test.
+       6. Applied Linear regression model.
