@@ -144,3 +144,5 @@
        4. merging two datasets.
        5. Splitting data into train and test.
        6. Applied Linear regression model.
+#  Covid-19 Data Analysis
+        In this Data analysis I analysed the data of covid-19 infection all over the world from jan 2020. It includes data analysis using map, bar graphs and scatter plots.
