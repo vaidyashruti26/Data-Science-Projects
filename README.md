@@ -146,3 +146,10 @@
        6. Applied Linear regression model.
 #  Covid-19 Data Analysis
         In this Data analysis I analysed the data of covid-19 infection all over the world from jan 2020. It includes data analysis using map, bar graphs and scatter plots.
+#  Mobile Price Prediction Using SVM
+     1. Imported all python libraries.
+     2. Data importing is done.
+     3. Data preprocessing is done.
+     4. Data visualisation is done.
+     5. Model building using SVM is done.
+     6. Accuracy, Confision matrix, Precision, Recall is calculated.
