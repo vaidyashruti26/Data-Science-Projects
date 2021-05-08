@@ -153,3 +153,6 @@
      4. Data visualisation is done.
      5. Model building using SVM is done.
      6. Accuracy, Confision matrix, Precision, Recall is calculated.
+#  Movie Recommendation
+     In this project KNN algorithm is used for model building. This project's aim is to get the movie name from user and recommend the movies which are close to the given movie name to the user. 
+
