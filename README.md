@@ -1,4 +1,4 @@
-# Pandas
+# Pandas Operations
  
     Practiced following topics in Pandas -
     1  Creation of Series and DataFrame
@@ -15,7 +15,7 @@
     12  merging of 2 DF using Merge function
     13  convering timestamp column to time using pd.to_datetime function
 
-# Numpy
+# Numpy Operations
     Practiced following topics in Numpy -
     1  defined 1 & 2 dimensional arrays
     2  checking shape of array & reshape it using np.reshape function
@@ -36,7 +36,7 @@
     17  checked maximum & where function
     18  merging of 2 arrays using vstack , hstack, & concatenate functions
 
-# Visualization_Matplotlib
+# Visualization_Matplotlib Operations
     Practiced following topics in Matplotlib -
     1  Importing various python libraries.
     2  Data visualsation using head() and shape functions.
