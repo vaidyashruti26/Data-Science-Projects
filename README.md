@@ -159,3 +159,10 @@
      In this project KNN algorithm is used for model building. This project's aim is to get the book name from user and recommend the books which are close to the given book name to the user.
 #   Red-Wine Quality Analysis and prediction
       In this project I have used Decision tree and SVM algorithms for prediction. 
+#   Bank Data Prediction using Decision Tree Algorithm
+     1. Imported all python libraries.
+     2. Data importing is done.
+     3. Data preprocessing is done.
+     4. Data visualisation is done.
+     5. Model building using Decision Tree is done.
+     6. Accuracy is calculated.
