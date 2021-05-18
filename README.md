@@ -157,3 +157,5 @@
      In this project KNN algorithm is used for model building. This project's aim is to get the movie name from user and recommend the movies which are close to the given movie name to the user. 
 #  Books Recommendation
      In this project KNN algorithm is used for model building. This project's aim is to get the book name from user and recommend the books which are close to the given book name to the user.
+#   Red-Wine Quality Analysis and prediction
+      In this project I have used Decision tree and SVM algorithms for prediction. 
