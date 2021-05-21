@@ -166,3 +166,9 @@
      4. Data visualisation is done.
      5. Model building using Decision Tree is done.
      6. Accuracy is calculated.
+#   Heart Analysis and Prediction
+     1. Imported all python libraries.
+     2. Data importing is done.
+     3. Data preprocessing is done.
+     4. Data visualisation is done.
+     5. Model building using Decision Tree is done.
