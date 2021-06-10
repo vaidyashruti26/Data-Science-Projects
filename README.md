@@ -1,4 +1,4 @@
-# PCOS_Analysis_and_Prediction
+# PCOS_Analysis_and_Prediction [link of live prediction = https://final-pcos-prediction.herokuapp.com/]
     Polycystic ovary syndrome is a disorder involving infrequent, irregular or prolonged menstrual periods, and often excess male hormone (androgen) levels.   Nowadays   out of every 5 female there is 1 female or 2 females are affected by PCOS. The symptoms of the PCOS are -"Weight gain", "hair growth", "Skin darkening",     "Hair       loss", "Pimples", "Fast food ", "Reg.Exercise", "Blood Group"]
     I have done following tasks:-
      1. Imported all python libraries.
